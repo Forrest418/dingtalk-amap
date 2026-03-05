@@ -9,7 +9,7 @@
   "mcpServers": {
     "高德地图": {
       "type": "streamable-http",
-      "url": "https://mcp-gw.dingtalk.com/server/6a791c7edfc712a9d40a2ee97e17353e9fb2432e970fbe9c4c2298a2dfb4d0ef?key=99891a909d2b5b4719b337a0308dada4"
+      "url": "https://mcp-gw.dingtalk.com/server/<serverId>?key=<key>"
     }
   }
 }
